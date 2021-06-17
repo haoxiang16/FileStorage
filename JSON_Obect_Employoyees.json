@@ -1,0 +1,47 @@
+{
+    "Kevin":{
+        "firstname:": "kevin",
+        "height": 180,
+        "email": "kevin@gmail.com",
+        "city": {
+            "通訊地址": "台北",
+            "戶籍地址": "桃園"
+        },
+        "phone": {
+            "市話": "02-2981055",
+            "行動電話": "0933-852177"
+        },
+        "cars": [ "BMW", "Missan GT-R","Audi"
+        ]
+    },
+    "Marry":{
+        "firstname:": "Marry",
+        "height": 190,
+        "email": "kevin@gmail.com",
+        "city": {
+            "通訊地址": "台北",
+            "戶籍地址": "桃園"
+        },
+        "phone": {
+            "市話": "02-2981055",
+            "行動電話": "0933-852177"
+        },
+        "cars": ["BMW","Missan GT-R","Audi"
+        ]
+    },
+    "KEN":{
+        "firstname:": "ken",
+        "height": 190,
+        "email": "Ken@gmail.com",
+        "city": {
+            "通訊地址": "台北",
+            "戶籍地址": "桃園"
+        },
+        "phone": {
+            "市話": "02-2981055",
+            "行動電話": "0933-852177"
+        },
+        "cars": ["BMW","Missan GT-R","Audi"
+        ]
+    }
+}
